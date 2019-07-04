@@ -5,4 +5,4 @@ for n in range(x+1,y):
          if n%i == 0:
              break
       else:
-        print(n,end="")
+        print(n,end=" ")
